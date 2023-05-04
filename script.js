@@ -39,14 +39,14 @@ $(document).ready(function () {
 
   // Typing animation script start
   var typed = new Typed(".typing", {
-    strings: ["Sr Business Development Associate","Working in Bangalore",],
+    strings: ["Sr. Business Development Associate","Working in Bangalore",],
     typeSpeed: 100,
     backSpeed: 60,
     loop: true,
   });
 
   var typed = new Typed(".typing2", {
-    strings: ["Sr Business Development Associate","Working in Bangalore",],
+    strings: ["Sr. Business Development Associate","Working in Bangalore",],
     typeSpeed: 100,
     backSpeed: 60,
     loop: true,
